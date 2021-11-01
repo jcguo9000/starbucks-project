@@ -70,7 +70,7 @@ Picture files used in the Jupyter notebook
 
 
 ## Results
-The main findings of the code can be found at the post available [here](https://jcguo.medium.com/how-a-customer-reacts-to-a-starbucks-offer-53a3a40a7bcb).
+The main findings of the code can be found at the post available [here](https://jcguo.medium.com/how-users-reacts-to-starbucks-offers-a6243930b16).
 
 From the anaysis, we concluded that offer #2 is the most successful offer and offer # 7 is the least successful in terms of revenue vs. cost. Social media is a powerful tool to reach users, because based on the data, the offers that was not delivered through social media, have a relatively low view rate. Another observation is that offers with longer duration seems to have a better completion rate than shorter durations. Besides these, the influnece of offer difficulty, offer type and rewards amount is not very clear from exloratory analysis. From the user aspect, users in older age groups, with higer income, female and other gender users, users with longer membership age are more likely to view the offer and complete the offer. On the other hand, users with higer income, female users, and users with membership age between 4-6 years are more likely to complete an offer without viewing the offer. 
 
